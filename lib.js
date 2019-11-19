@@ -16,6 +16,7 @@ ellipse(-14, -65, 10,18);//left eye
 ellipse(14, -65, 10, 18);//right eye
   ellipse(0, -40, 35,18);
   //mouth
+  pop();
 }
 
 //Barrie D
