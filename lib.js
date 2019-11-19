@@ -14,9 +14,9 @@ arc(0,-65,70,70,0, PI); //chin
 fill(0);
 ellipse(-14, -65, 10,18);//left eye 
 ellipse(14, -65, 10, 18);//right eye
-  ellipse(0, -40, 35,18);
-  //mouth
-  pop();
+ellipse(0, -40, 35,18); //mouth
+pop();
+strokeWeight(1);
 }
 
 //Barrie D
